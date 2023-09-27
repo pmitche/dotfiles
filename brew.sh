@@ -89,6 +89,7 @@ brew install xz
 brew install ack
 #brew install exiv2
 brew install git
+brew install git-credential-manager
 brew install git-lfs
 brew install gs
 brew install imagemagick --with-webp
