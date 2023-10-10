@@ -105,14 +105,14 @@ brew install tree
 brew install vbindiff
 brew install zopfli
 
-# Install other applications
-brew install rectangle
-brew install notion
-brew install bitwarden
-brew install visual-studio-code
-brew install docker
-brew install sublime-text
-brew install rider
+# Install other GUI applications
+brew install --cask rectangle
+brew install --cask notion
+brew install --cask bitwarden
+brew install --cask visual-studio-code
+brew install --cask docker
+brew install --cask sublime-text
+brew install --cask rider
 
 # Remove outdated versions from the cellar.
 brew cleanup
