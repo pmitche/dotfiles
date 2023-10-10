@@ -106,7 +106,7 @@ brew install vbindiff
 brew install zopfli
 
 # Install other GUI applications
-brew install --cask rectangle
+#brew install --cask rectangle #use Lasso instead (no brew)
 brew install --cask notion
 brew install --cask bitwarden
 brew install --cask visual-studio-code
