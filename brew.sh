@@ -104,6 +104,7 @@ brew install ssh-copy-id
 brew install tree
 brew install vbindiff
 brew install zopfli
+brew install pinentry-mac
 
 # Install other GUI applications
 #brew install --cask rectangle #use Lasso instead (no brew)
