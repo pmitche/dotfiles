@@ -114,6 +114,7 @@ brew install --cask visual-studio-code
 brew install --cask docker
 brew install --cask sublime-text
 brew install --cask rider
+brew install --cask slack
 
 # Remove outdated versions from the cellar.
 brew cleanup
