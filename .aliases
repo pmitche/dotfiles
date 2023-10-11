@@ -151,4 +151,5 @@ alias path='echo -e ${PATH//:/\\n}'
 # Open Applications directory
 alias apps='open /Applications/'
 
-#test
+# Open in Rider
+alias rider='open -na "Rider.app"'
