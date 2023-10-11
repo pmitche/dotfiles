@@ -105,6 +105,7 @@ brew install tree
 brew install vbindiff
 brew install zopfli
 brew install pinentry-mac
+brew install maccy
 
 # Install other GUI applications
 #brew install --cask rectangle #use Lasso instead (no brew)
