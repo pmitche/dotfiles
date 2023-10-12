@@ -153,3 +153,6 @@ alias apps='open /Applications/'
 
 # Open in Rider
 alias rider='open -na "Rider.app"'
+
+# Sleep
+alias zzz='osascript -e '\''tell application "Finder" to sleep'\'''
